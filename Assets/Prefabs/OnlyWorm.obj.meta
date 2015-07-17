@@ -1,22 +1,37 @@
 fileFormatVersion: 2
-guid: 13a9b0d1a76724042a35363b24508659
-timeCreated: 1436275150
+guid: fb950afb3b5532f47ba1e41cc3b92c61
+timeCreated: 1437153679
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
-    100000: //RootNode
-    100002: group1_pCube1
-    100004: pCube2_group1
-    400000: //RootNode
-    400002: group1_pCube1
-    400004: pCube2_group1
-    2300000: group1_pCube1
-    2300002: pCube2_group1
-    3300000: group1_pCube1
-    3300002: pCube2_group1
-    4300000: group1_pCube1
-    4300002: pCube2_group1
+    100000: group3_nurbsToPoly1
+    100002: group3_nurbsToPoly2
+    100004: group3_pSphere1
+    100006: group3_pSphere2
+    100008: //RootNode
+    100010: pCube1_group3
+    400000: group3_nurbsToPoly1
+    400002: group3_nurbsToPoly2
+    400004: group3_pSphere1
+    400006: group3_pSphere2
+    400008: //RootNode
+    400010: pCube1_group3
+    2300000: group3_nurbsToPoly1
+    2300002: group3_nurbsToPoly2
+    2300004: group3_pSphere1
+    2300006: group3_pSphere2
+    2300008: pCube1_group3
+    3300000: group3_nurbsToPoly1
+    3300002: group3_nurbsToPoly2
+    3300004: group3_pSphere1
+    3300006: group3_pSphere2
+    3300008: pCube1_group3
+    4300000: group3_nurbsToPoly1
+    4300002: group3_nurbsToPoly2
+    4300004: group3_pSphere1
+    4300006: group3_pSphere2
+    4300008: pCube1_group3
   materials:
     importMaterials: 1
     materialName: 0
